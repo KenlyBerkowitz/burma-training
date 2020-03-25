@@ -1,0 +1,360 @@
+No Dish Name
+00
+No Dish Decription
+----------------
+Burmese Samusa's
+01
+(Vegetable|Chicken|Lamb) -Four handmade pastries filled with curried potatoes , mint, and masala spices. Stuffed with green peas, chicken or lamb. Crispy on the outside and soft on the inside, served with our spicy and tangy house red sauce.
+----------------
+S&P chicken
+02
+Lightly battered and fried, served with jalapeño and scallions.
+----------------
+S&P Calamari
+03
+Lightly battered and fried, served with jalapeño and scallions.
+----------------
+Kha Yan Chin Tee Chat
+04
+An unami bomb of simmered tomatoes, onion, and garlic, Thai chilies, Burmese shrimp paste and fish sauce. Served cold with English cucumbers. Delicious with rice
+----------------
+Platha & Dip
+05
+Known as "thousand layer bread" for its crispy, chewy, buttery layers. Lovingly handmade. Served with a coconut chicken curry dip
+----------------
+No Dish Name
+06
+No Dish Decription
+----------------
+Homemade Yellow Bean Tofu
+07
+Our homemade tofu made grin roasted yellow beans. Crispy on the outside, soft on the inside, drizzled with a sweet and spicy soy dressing.
+----------------
+Skillet Shrimp
+08
+Sizzling shrimp with garlic, ginger, turmeric, lime and chilies served on a hot skillet.
+----------------
+No Dish Name
+09
+No Dish Decription
+----------------
+No Dish Name
+10
+No Dish Decription
+----------------
+Laphet Thoke (Tea Leaf Salad)
+11
+Featured in Sunset Magazine as the "Best Salad in the West'! Tea leaf salad is enjoyed by Burmese people throughout Mayanmar. Our version combines the fermented tea leaf (laphet) with fresh romaine lettuce, cabbage, tomato, jalapeño, crunchy peanuts, and seeds, ground sun-dried shrimp, fresh lemon juice and fish sauce. Add organic pickled ginger for $1.
+----------------
+Rainbow Salad
+12
+Mixed table-side, this salad boasts 22 ingredients including four types of noodles, green papaya, tomato, jalapeño, fried garlic and onion, potato, cabbage, roasted chickpea flour, cilantro, wonton strips, ad Hodo Soy tofu all tossed with our special tamarind vinaigrette.
+----------------
+Ginger Salad
+13
+An invigorating salad of organic pickled ginger, cabbage, lettuce, fried garlic, sesame seeds, crunchy split yellow peas and ground sun-dried shrimp.
+----------------
+Mango Salad
+14
+A sweet, refreshing salad of tart, pickled mangoes, shredded cabbage, fried onions, roasted chickpea flour and cucumbers. Mixed table-side. Add organic ginger for $1.
+----------------
+Burmese Style Chicken Salad
+15
+Salad of cabbage, chopped chicken breast, fried onions, cilantro, lettuce, fried garlic, roasted chickpea flour, and tamarind dressing. Add organic ginger for $1.
+----------------
+No Dish Name
+16
+No Dish Decription
+----------------
+Samusa Salad
+17
+This hearty salad combines chipped vegetarian samosas, falafel, potato, cabbage, cucumber, mint, roasted chickpea flour, onion and cilantro.
+----------------
+No Dish Name
+18
+No Dish Decription
+----------------
+No Dish Name
+19
+No Dish Decription
+----------------
+No Dish Name
+20
+No Dish Decription
+----------------
+Samusa Soup
+21
+Drawing influence from Indian cuisine, Samusa Soup is a hearty Burmese soup in a tangy tamarind broth that combines vegetarian samosas, falafels, lentils, cabbage, onions and garlic.
+----------------
+Mohinga (Catfish Chowder Noodle Soup)
+22
+"The national dish of Burma," Mohinga is a thick, slow-cooked soup of ground catfish, onion, garlic, ginger, turmeric, lemongrass, and fish sauce. Garnished with cilantro, fresh onions, hard-boiled egg, fried split pea fritter and lemon. Not for timid taste buds!
+----------------
+Ohn No Khao Swe (Coconut Chicken Noodle Soup)
+23
+The Burmese classic is one of the most popular comforts foods in Myanmar, found in restaurants and foods taels throughout the country. Chicken slow-cooked with coconut milk, turmeric, onions and garlic. Garnished with flour noodles, cilantro, fresh onions, hard-boiled egg, chili and lemon.
+----------------
+No Dish Name
+24
+No Dish Decription
+----------------
+No Dish Name
+25
+No Dish Decription
+----------------
+No Dish Name
+26
+No Dish Decription
+----------------
+No Dish Name
+27
+No Dish Decription
+----------------
+No Dish Name
+28
+No Dish Decription
+----------------
+No Dish Name
+29
+No Dish Decription
+----------------
+Chicken Kebat
+30
+Wok-tossed chicken with onions, tomatoes, green chilies, turmeric, mint and cilantro. Can be made mild or extra spicy upon request.
+----------------
+Coconut Chicken Curry
+31
+Chicken thighs simmer in an aromatic stew of coconut milk, turmeric, Thais basil, string beans and chili. Mild or extra spicy upon request.
+----------------
+Chicken Curry with Potatoes
+32
+Our specialty red curry with chicken thighs, pickled mango and potatoes.
+----------------
+Fiery Chicken with Braised Tofu
+33
+Wok-tossed chicken with Hodo Foods organic tofu, string beans, red bell peppers, oyster sauce and Thai basil in our five spice "sweet heat" sauce.
+----------------
+Spicy & Crispy Chicken
+34
+Battered chicken chunks tossed sun a sweet & spicy garlic-chili sauce and topped with scallions.
+----------------
+Chicken with Fresh Basil
+35
+Wok-tossed chicken cooked with lemongrass, bell peppers, basil, garlic and sweet peas severed in a light chili sauce.
+----------------
+Sesame Chicken
+36
+Lightly battered strips of chicken tossed with sesame seeds in a sweet & tangy sauce and topped with scallions.
+----------------
+Mango Chicken
+37
+Wok-tossed chicken with mangoes, onion, oyster sauce, Thai basil and Sichuan chilis.
+----------------
+Pumpkin Chicken Stew
+38
+A rich, homey stew of chicken thighs, tender kabocha squash, ginger, turmeric, onion and garlic.
+----------------
+Chicken with Fresh Mint
+39
+Street food found at the border between Myanmar and Thailand. Minced chicken with diced jalapeños, chopped mint, cilantro, and whole garlic cloves.
+----------------
+Ginger Chili Pork
+40
+Tender pork belly tossed with garlic, ginger, Thai chilies, soy sauce, rice wine and green onions.
+----------------
+Pork Curry with Potatoes
+41
+Our signature red curry with tender pork, pickled mayo and potatoes.
+----------------
+Pumpkin Pork Stew
+42
+A rich and homey stew of kabocha squash, tender pork, ginger, turmeric, onions and garlic.
+----------------
+No Dish Name
+43
+No Dish Decription
+----------------
+Pork Belly with Mustard Greens
+44
+Tender pork belly tossed with picked mustard greens, Thai chilies and ginger. A Burma Superstar family recipe- spicy, sour, sweet and savory.
+----------------
+No Dish Name
+45
+No Dish Decription
+----------------
+No Dish Name
+46
+No Dish Decription
+----------------
+Sesame Tofu
+47
+Lightly battered tofu cubes tossed with sesame sees in a sweet, tangy sauce, topped with scallions.
+----------------
+No Dish Name
+48
+No Dish Decription
+----------------
+No Dish Name
+49
+No Dish Decription
+----------------
+Mango Tofu
+50
+Hodo Foods organic tofu wok-tossed with mangoes, onion oyster sauce Thai basil and Sichuan chilies.
+----------------
+Pea Shoots
+51
+Young tender snow pea leaves stir-fried with rice wine and garlic. Topped with fried minced garlic.
+----------------
+Wok-Tossed Broccoli
+52
+Broccoli florets stir-fried with rice wine, and a pinch of salt. Topped with fried onions.
+----------------
+Mixed Vegetable Curry
+53
+Red curry with Hodo Soy Organic Tofu, tomatoes, eggplant, potato, carrot, broccoli, chayote, string beans, mint, cilantro, and jalapeños.
+----------------
+Tofu Vegetable Kebat
+54
+Traditional Burmese curried stir-fry of Hodo Foods Organic tofu, onion, tomato, chayote, carrot, mint, turmeric, jalapeño and cilantro.
+----------------
+Dry-Fried String Beans
+55
+Sichuan-style string beans wok-tossed with a garlic & chili sauce.
+----------------
+Egg Curry with Okra
+56
+Burmese style red curry served with hard boiled eggs, okra, tomato, and jalapeño.
+----------------
+Eggplant Curry
+57
+Burmese style red curry with tender eggplant and jalapeños.
+----------------
+Eggplant with Garlic Sauce
+58
+Tender eggplant sautéed with a garlic & chili sauce, topped with scallions.
+----------------
+No Dish Name
+59
+No Dish Decription
+----------------
+Fiery Braise Organic Tofu
+60
+Hodo Foods organic tofu wok-tossed with basil, string beans and red bell pepper. Contains oyster sauce.
+----------------
+Superstar Vegetarian Noodles
+61
+Traditional Burmese flour noodles mixed with potatoes, cucumbers, tofu, chili sauce, cabbage and cilantro. Served cold.
+----------------
+Nan Gyi Dok
+62
+Flour noodles with coconut chicken curry, roasted chickpea flour, hard-boiled egg, cabbage, wontons, turmeric, chili and fried onions.***
+----------------
+No Dish Name
+63
+No Dish Decription
+----------------
+Garlic Noodles
+64
+(Hodo Foods Organic Tofu|Chicken breast (halal)|Pork Belly|Shrimp) -A Chinese influenced dish sold from pushcarts throughout Burma. Egg noodles with fried garlic, sprinkled with scallions, fresh onions, cucumbers and our house sweet and spicy sauce.
+----------------
+Spicy Noodles
+65
+(Hodo Foods Organic Tofu|Chicken|Shrimp) -Wok tossed noodles in a sweet and spicy tangy sauce with tender pea shoots, red bell pepper, scrambled egg, shredded cabbage and crushed peanuts. Contains fish sauce. Please allow 15-20 minutes for preparation.
+----------------
+Superstar Vegetarian Fried Rice
+66
+Made with brown rice, tender snow lea leaves, pine nuts and garlic. Simple, healthy and delicious. Add scrambled egg for $2.
+----------------
+Shan Noodles
+67
+Rice noodles in a spicy tomato sauce mixed with pickled mustard greens, ground peanuts, fresh cilantro and fried Hodo Soy organic tofu. Regional cuisine from Eastern Mayanmar's Shan State.
+----------------
+No Dish Name
+68
+No Dish Decription
+----------------
+No Dish Name
+69
+No Dish Decription
+----------------
+No Dish Name
+70
+No Dish Decription
+----------------
+Burmese Style Beef or Lamb
+71
+Our signature red curry in your choice of Angus beed or grass-fed lamb. Mild and extra spicy upon request. Add string beans for $2. Lamb curry contains dairy.
+----------------
+Chili Beef or Lamb
+72
+Strips of beef or lamb wok-tossed with Sichuan chukkas, onion, rice wine and Thai basil. Can be made mild or extra spicy upon request.
+----------------
+Steak or Lamb Kebat
+73
+Traditional Burmese stir-fry of beef or lamb with onions, tomatoes, green chilies, turmeric, mint and cilantro. Mild or extra spicy upon request.
+----------------
+Fiery Beef or Lamb with Braised Tofu
+74
+Wok-tossed beef or lamb with Hodo Foods organic tofu, red bell peppers, oyster sauce and Thai basil in our five spice "sweet heat" sauce.
+----------------
+Sesame Beef
+75
+Lightly battered strips of beef tossed with sesame seeds in a sweet, tangy sauce and topped with scallions.
+----------------
+No Dish Name
+76
+No Dish Decription
+----------------
+No Dish Name
+77
+No Dish Decription
+----------------
+No Dish Name
+78
+No Dish Decription
+----------------
+No Dish Name
+79
+No Dish Decription
+----------------
+Shrimp & Eggplant with Garlic Sauce
+80
+Shrimp and tender eggplant sautéed with a garlic & chili sauce, topped with scallions.
+----------------
+Burmese Style Seafood Curry
+81
+(Catfish|Shrimp) -Our specialty red curry in your choice of shrimp or bone-in catfish.
+----------------
+Superstar Shrimp
+82
+Shrimp and onions wok-tossed  with a sweet soy & chili garlic glaze.
+----------------
+Fried Chili Catfish
+83
+Traditional, bone-in chunks of crispy catfish, tossed in fried garlic, fried onions and chili flakes.
+----------------
+No Dish Name
+84
+No Dish Decription
+----------------
+Walnut Shrimp
+85
+Lightly battered, fried, and wok-tossed with a sweet cream sauce. Topped with roasted candied walnuts, sesame seeds and cilantro sprigs.
+----------------
+Chin Baung Kyaw
+86
+Sour Leaf Shrimp - Seasonal. Hibiscus leaves stir-fried with fresh, minced shrimp and spicy Burmese shrimp paste, onions, garlic, and spices. A Burmese classic. Not for timid taste buds!
+----------------
+Lemongrass Salmon
+87
+Fried Salmon topped with Thai basil, chili, lemongrass, snap peas, mushrooms and bell peppers.
+----------------
+Shrimp with Tomato Chutney
+88
+Our "Kha Yan chin tee chat" tomato chutney sautéed with shrimp and okra- spicy, rich and flavorful. Not for timid taste buds.
+----------------
+Mango Shrimp
+89
+Wok-tossed shrimp with mangoes, onions, oyster sauce, Thai basil, and Sichuan chilies.
+----------------
